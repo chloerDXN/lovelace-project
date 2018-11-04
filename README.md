@@ -49,12 +49,12 @@ To enrich our study, we will have to include datasets on the US population inclu
 2. **Nov. 15th - Environmental impact:**
 
     a.) Define a formula to rate the environmental impact of the meat ingredients in a recipe
-    
+  
     b.) Rate and analyze ratings of recipes with meat ingredients.
 
 3. **Nov. 18th - Meat consumption:**
 
-    a.) Quantify the meat consumption regionally and over time in the US 
+    a.) Quantify the meat consumption regionally and over time in the US
     b.) Look at different levels of granularity in the geographical information (state, cities, suburbs).
 
 4. **Nov. 23rd - The Carnivores:**
