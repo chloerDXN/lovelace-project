@@ -2,9 +2,7 @@
 Who are the carnivors?
 
 # Abstract
-
-In this project, we will analyze the prevalence of meat in recipes frequented online in order to explore the trends in meat consumption. Specifically, we plan to extract the ingredient types and quantities and number, time and location of clicks from a recipe database. Using this information, we will explore the link between meat consumption and various key factors such as time of year, rural and urban locations, average regional income or historic events (i.e. Paris Climate Agreement, mad cow disease outbreak). Finally, we hope to relate this data to the issue of climate change by estimating a rating reflecting the carbon footprint of meat in recipes and the environmental impact of consumers' diets. 
-
+With increasingly dire climate change forecasts, concerned individuals are asking how they can minimize their carbon footprint. Recent research suggests that reducing one's consumption of meat, in particular beef, is one of the highest impact actions an individual can take. To examine this topic, we will explore the trends in meat consumption in the U.S. by analyzing the prevalence of meat in recipes frequented online. Specifically, we plan to extract the ingredients, time and location of clicks from a recipe database. Using this information, we will explore the link between meat consumption and various key factors such as time of year, rural and urban locations, average regional income or historic events (i.e. the Paris Climate Agreement, mad cow disease outbreak). Finally, we hope to directly relate this data to the issue of climate change by estimating a rating reflecting the carbon footprint of meat in recipes and the environmental impact of consumers' diets. 
 
 # Research questions
 
