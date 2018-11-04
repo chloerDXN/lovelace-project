@@ -1,8 +1,9 @@
-# Title: Who are the carnivores?
+# Who are the carnivores?
 
 # Abstract
 
-In this project, we will analyze the prevalence of meat in recipes frequented online in order to explore the trends in meat consumption. Specifically, we plan to extract the ingredient types and quantities as well as number, time and location of clicks from a recipe database. Using this information, we will explore the link between meat consumption and various key factors such as time of year, rural and urban locations, average regional income or historic events (i.e. Paris Climate Agreement, mad cow disease outbreak). Finally, we hope to relate this data to the issue of climate change by estimating a rating reflecting the carbon footprint of meat in recipes and the environmental impact of consumers' diets. 
+With increasingly dire climate change forecasts, concerned individuals are asking how they can minimize their carbon footprint. Recent research suggests that reducing one's consumption of meat, in particular beef, is one of the highest impact actions an individual can take. 
+To examine this topic, we will explore the trends in meat consumption in the U.S. by analyzing the prevalence of meat in recipes frequented online. Specifically, we plan to extract the ingredients, time and location of clicks from a recipe database. Using this information, we will explore the link between meat consumption and various key factors such as time of year, rural and urban locations, average regional income or historic events (i.e. the Paris Climate Agreement, mad cow disease outbreak). Finally, we hope to directly relate this data to the issue of climate change by estimating a rating reflecting the carbon footprint of meat in recipes and the environmental impact of consumers' diets. 
 
 
 # Research questions
@@ -14,9 +15,13 @@ In this project, we will analyze the prevalence of meat in recipes frequented on
 3. How does meat consumption vary over time?
 
 4. Example questions to characterize the carnivores further:
+
     a.) Is the hypothesis that rich people eat more meat valid?
+    
     b.) Does rural or urban population eat more meat?
+    
     c.) How does meat consumption vary with temperature and season?
+    
     d.) Is the meat consumption affected by press on animal illnesses or environmental effects?
 
 5. How can we conclude from our findings to do general statements?
@@ -33,26 +38,39 @@ To enrich our study, we will have to include datasets on the US population inclu
 # A list of internal milestones up until project milestone 2
 
 1. **Nov. 11th - Data exploration:**
+
     a.) Get the data on the computer
+    
     b.) Load any relevant data from HTML files in a treatable data form such as dataframes
+    
     c.) Extract and clean data about ingredients, quantities, number of clicks, regional and time information
+   
     d.) Categorise meat ingredients in relevant sub-categories. 
 
 2. **Nov. 15th - Environmental impact:**
+
     a.) Define a formula to rate the environmental impact of the meat ingredients in a recipe
+    
     b.) Rate and analyse ratings of recipes with meat ingredients.
 
 3. **Nov. 18th - Meat consumption:**
-       Quantify the meat consumption regionaly and over time in the US. Look into different levels of granularity in                the geographical information (state, cities, suburbs).
+
+    Quantify the meat consumption regionaly and over time in the US. Look into different levels of granularity in                the geographical information (state, cities, suburbs).
 
 4. **Nov. 23rd - The Carnivores:**
+
     Characterize the meat eating population (carnivores) by anlyzing the research questions
+    
     a.) Find relevant datasets to research questions (if applicable)
+    
     b.) Confront our research questions and hypothesis with data
     
 5. **Nov. 25th - Milestone 2:**
+
     a.) Define which research questions we want to study in depth for the final project submission.
+    
     b.) Document our findings for final MS2 submission 
+    
     c.) Plan next steps for Milestone 3 and final presentation
 
 # Questions for TAa
