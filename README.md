@@ -55,6 +55,7 @@ To enrich our study, we will have to include datasets on the US population inclu
 3. **Nov. 18th - Meat consumption:**
 
     a.) Quantify the meat consumption regionally and over time in the US
+    
     b.) Look at different levels of granularity in the geographical information (state, cities, suburbs).
 
 4. **Nov. 23rd - The Carnivores:**
@@ -73,7 +74,7 @@ To enrich our study, we will have to include datasets on the US population inclu
     
     c.) Plan next steps for Milestone 3 and final presentation
 
-# Questions for TAa
+# Questions for the TAs
 
 1. Do you think this project is too ambitious for us? (Please note that we are "beginners" in data science)
 
