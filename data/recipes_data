@@ -1,0 +1,70 @@
+,Recipe Title,Has meat,Meat types
+0,"
+	Cheese and Onion Pie Recipe - Allrecipes.com
+",True,"['cheese', 'egg']"
+1,"
+	Wonton Wrappers Recipe - Allrecipes.com
+",True,['egg']
+2,"
+	Twice Baked Cheesy Potatoes Recipe - Allrecipes.com
+",True,['cheese']
+3,"
+	Mahi Mahi with Coconut Rice and Mango Salsa Recipe - Allrecipes.com
+",True,['chicken']
+4,"
+	Coconut Icebox Cookies Recipe - Allrecipes.com
+",True,['egg']
+5,"
+	Seattle Dutch Babies Recipe - Allrecipes.com
+",True,['egg']
+6,"
+	Baked Asparagus with Balsamic Butter Sauce Recipe - Allrecipes.com
+",False,[]
+7,"
+	Stuffed Mushrooms with Spinach Recipe - Allrecipes.com
+",True,['cheese']
+8,"
+	Oyster Stew Recipe - Allrecipes.com
+",False,[]
+9,"
+	Slow Cooker Carnitas Recipe - Allrecipes.com
+",True,"['pork', 'chicken']"
+10,"
+	Inside Out Stuffed Peppers Recipe - Allrecipes.com
+",False,[]
+11,"
+	Perfect Pumpkin Pie Recipe - Allrecipes.com
+",True,['egg']
+12,"
+	Cranberry Sauce I Recipe - Allrecipes.com
+",False,[]
+13,"
+	Halloween Cookies Recipe - Allrecipes.com
+",True,['egg']
+14,"
+	Liver Pate Recipe - Allrecipes.com
+",True,['chicken']
+15,"
+	Chicken Corn Chowder Recipe - Allrecipes.com
+",True,"['chicken', 'chicken']"
+16,"
+	Pineapple Angel Food Cake I Recipe - Allrecipes.com
+",False,[]
+17,"
+	Asian Ground Beef and Pepper Saute Recipe - Allrecipes.com
+",True,"['beef', 'beef']"
+18,"
+	Nancy's Chicken in Puff Pastry Recipe - Allrecipes.com
+",True,"['chicken', 'cheese']"
+19,"
+	Fruit Dip Recipes - Allrecipes.com
+",True,"['chicken', 'cheese']"
+20,"
+	Seven Minute Frosting I Recipe - Allrecipes.com
+",True,['egg']
+21,"
+	Wild Rice Pilaf Recipe - Allrecipes.com
+",False,[]
+22,"
+	Southern Fried Corn Recipe - Allrecipes.com
+",False,[]
