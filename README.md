@@ -9,11 +9,11 @@ Finally, we hope to directly relate this data to the issue of climate change by 
 
 1. How can we rate the carbon footprint of the meat in a recipe?
 
-2. Does the recipe rating depend on the presence of meat and the carbon footprint?
+2. Does the recipe rating depend on the presence of meat and the carbon footprint? Are recipes with lower carbon footprints rated higher or lower?
 
-3. What trends emerge by clustering similarly named recipes?
+3. What trends emerge by clustering similarly named recipes or recipes with shared tags?
 
-4. Is there any relationship between the carbon footprint and the publish date?
+4. Is there any relationship between the carbon footprint or the presence of meat and the publish date?
 
 5. Can we find similar recipes that have lower carbon footprints?
 
@@ -34,9 +34,9 @@ Steps accomplished:
 
     a.) Loaded recipe data
     
-    b.) Transfered any relevant data from HTML files into a treatable data form such as dataframes
+    b.) Extracted and cleaned data about ingredients and quantities.
     
-    c.) Extracted and cleaned data about ingredients and quantities.
+        -
    
     d.) Categorised meat ingredients in relevant sub-categories. 
 
@@ -57,7 +57,7 @@ Steps accomplished:
 
 # Milestone 2 Update: 
 
-After thoroughly exploring our data we discovered that we do not have the access logs referenced in the original paper so we had to redefine our project scope and goals to focus more fully on the recipe database. Instead of analyzing the consumer trends over time and geographic location, we will examine the meat prevalence in recipes as it relates to rating, publishing date and other recommended recipes. We 
+After thoroughly exploring our data we discovered that we do not have the access logs referenced in the original paper so we had to redefine our project scope and goals to focus more fully on the recipe database. Instead of analyzing the consumer trends over time and geographic location, we will examine the meat prevalence in recipes as it relates to rating, publishing date and other recommended recipes. We limited our search to htmls of recipes, filtering out the web pages that have multiple recipes (i.e. "BBQ Recipes for 4th of July", "Salad ideas"). Our method for extracting the quantity of meat is not fool-proof: all quantities are  ....FINISH
 
 
 # Next Steps: Analysis
