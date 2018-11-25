@@ -58,15 +58,21 @@ After thoroughly exploring our data we discovered that we do not have the access
 # Next Steps: Refining data extraction and analysis
 
 Before going in depth with the data analysis, we still have to refine our data extraction and cleaning.
+
 1.) Extract ratings, date and tags from all sources
+
 2.) Extract carbon impact of all recipes containing meat ingredients
 
 Using the cleaned dataframe we created for milestone 2, we will then begin the analysis of the research questions above.
 
 1.) Explore basic relationships between ratings, ingredients and carbon footprint
+
 2.) Examine the ratio of recipes with meat to those without. Does this depend on the tags?
+
 3.) Attempt clustering by tags and examine trends
+
 4.) Formalize "story" based on observations
+
 5.) Prepare presentation and final story
 
 # Questions for the TAs
