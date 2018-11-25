@@ -1,21 +1,18 @@
-,Recipe Title,Has meat,Meat types,Tags
-0,Money-Saving Meals : Recipes and Cooking : Food Network,True,['egg'],[]
+,Recipe Title,Has meat,Meat types,Meat quantity (kg),Tags
+0,Money-Saving Meals : Recipes and Cooking : Food Network,True,['egg'],[0],[]
 1,"
 	Cheese and Onion Pie Recipe - Allrecipes.com
-",True,"['cheese', 'egg']",[]
+",True,"['cheese', 'egg']","[0, 0]",[]
 2,"
 	Wonton Wrappers Recipe - Allrecipes.com
-",True,['egg'],[]
+",True,['egg'],[0],[]
 3,"
-	Twice Baked Cheesy Potatoes Recipe - Allrecipes.com
-",True,['cheese'],[]
-4,"
 	Mahi Mahi with Coconut Rice and Mango Salsa Recipe - Allrecipes.com
-",True,['chicken'],[]
-5,"
+",True,['chicken'],[0],[]
+4,"
 	Coconut Icebox Cookies Recipe - Allrecipes.com
-",True,['egg'],[]
-6,"
+",True,['egg'],[0],[]
+5,"
 
 
 
@@ -26,40 +23,40 @@
 
 
 Harissa-Crusted Tri-Tip Roast Recipe
- at Epicurious.com",False,[],[]
-7,Savory Grilled Chicken Sauce Recipe : Paula Deen : Recipes : Food Network,False,[],[]
-8,Tisane Recipe | MyRecipes.com,False,[],"['Beverages', 'Beverages, Nonalcoholic', 'Quick/Easy', 'American', 'Low Calorie', 'Low Cholesterol', 'Low Fat', 'Low Saturated Fat', 'Sunset']"
-9,"
+ at Epicurious.com",False,[],[0],[]
+6,Savory Grilled Chicken Sauce Recipe : Paula Deen : Recipes : Food Network,False,[],[0],[]
+7,Tisane Recipe | MyRecipes.com,False,[],[0],"['Beverages', 'Beverages, Nonalcoholic', 'Quick/Easy', 'American', 'Low Calorie', 'Low Cholesterol', 'Low Fat', 'Low Saturated Fat', 'Sunset']"
+8,"
 	Seattle Dutch Babies Recipe - Allrecipes.com
-",True,['egg'],[]
-10,"
+",True,['egg'],[0],[]
+9,"
 	Baked Asparagus with Balsamic Butter Sauce Recipe - Allrecipes.com
-",False,[],[]
-11,Sausage-Hash Brown Breakfast Casserole Recipe | MyRecipes.com,True,"['pork', 'pork', 'cheese', 'egg']","['Breakfast/Brunch', 'Casseroles', 'Kid-Friendly', 'American', 'Pork', 'Bake', 'Southern Living']"
-12,"
+",False,[],[0],[]
+10,Sausage-Hash Brown Breakfast Casserole Recipe | MyRecipes.com,True,"['pork', 'pork', 'cheese', 'egg']","[0, 0, 0, 0]","['Breakfast/Brunch', 'Casseroles', 'Kid-Friendly', 'American', 'Pork', 'Bake', 'Southern Living']"
+11,"
 	Stuffed Mushrooms with Spinach Recipe - Allrecipes.com
-",True,['cheese'],[]
-13,"
+",True,['cheese'],[0],[]
+12,"
 	Oyster Stew Recipe - Allrecipes.com
-",False,[],[]
-14,"
+",False,[],[0],[]
+13,"
 	Slow Cooker Carnitas Recipe - Allrecipes.com
-",True,"['pork', 'chicken']",[]
-15,"
+",True,"['pork', 'chicken']","[0, 0]",[]
+14,"
 	Inside Out Stuffed Peppers Recipe - Allrecipes.com
-",False,[],[]
-16,"
+",False,[],"[0, 0]",[]
+15,"
 	Progresso® Bread Crumb Recipes - Betty Crocker
-",False,[],[]
-17,Simple Collard Greens Recipe | MyRecipes.com,False,[],"['Side Dishes/Vegetables', 'Entertaining', 'Make-Ahead', 'American', 'Southern', 'Vegetables', 'Autumn', 'Christmas', 'Winter', 'Southern Living']"
-18,"
+",False,[],"[0, 0]",[]
+16,Simple Collard Greens Recipe | MyRecipes.com,False,[],"[0, 0]","['Side Dishes/Vegetables', 'Entertaining', 'Make-Ahead', 'American', 'Southern', 'Vegetables', 'Autumn', 'Christmas', 'Winter', 'Southern Living']"
+17,"
 	Perfect Pumpkin Pie Recipe - Allrecipes.com
-",True,['egg'],[]
-19,"
+",True,['egg'],[0],[]
+18,"
 	Cranberry Sauce I Recipe - Allrecipes.com
-",False,[],[]
-20,White Chocolate Bark Recipe : Ina Garten : Recipes : Food Network,False,[],[]
-21,"
+",False,[],[0],[]
+19,White Chocolate Bark Recipe : Ina Garten : Recipes : Food Network,False,[],[0],[]
+20,"
 
 
 
@@ -70,34 +67,31 @@ Harissa-Crusted Tri-Tip Roast Recipe
 
 
 Espresso and Mascarpone Icebox Cake Recipe
- at Epicurious.com",False,[],[]
-22,"
+ at Epicurious.com",False,[],[0],[]
+21,"
 	Halloween Cookies Recipe - Allrecipes.com
-",True,['egg'],[]
-23,"
+",True,['egg'],[0],[]
+22,"
 	Liver Pate Recipe - Allrecipes.com
-",True,['chicken'],[]
-24,Spiced Chicken Tenders with Dipping Sauces Recipe : Sandra Lee : Recipes : Food Network,True,"['egg', 'chicken']",[]
-25,"
+",True,['chicken'],[0],[]
+23,Spiced Chicken Tenders with Dipping Sauces Recipe : Sandra Lee : Recipes : Food Network,True,"['egg', 'chicken']","[0, 0]",[]
+24,"
 	Chicken Corn Chowder Recipe - Allrecipes.com
-",True,"['chicken', 'chicken']",[]
-26,"
+",True,"['chicken', 'chicken']","[0, 0]",[]
+25,"
 	Pineapple Angel Food Cake I Recipe - Allrecipes.com
-",False,[],[]
-27,Asian Egg Drop Soup Recipe : Tyler Florence : Recipes : Food Network,True,"['chicken', 'egg']",[]
-28,"
+",False,[],"[0, 0]",[]
+26,Asian Egg Drop Soup Recipe : Tyler Florence : Recipes : Food Network,True,"['chicken', 'egg']","[0, 0]",[]
+27,"
 	Asian Ground Beef and Pepper Saute Recipe - Allrecipes.com
-",True,"['beef', 'beef']",[]
-29,"
-	Slow Cooker Lentil Soup  Recipe from Betty Crocker
-",True,['chicken'],[]
-30,"
+",True,"['beef', 'beef']","[0, 0]",[]
+28,"
 	Nancy's Chicken in Puff Pastry Recipe - Allrecipes.com
-",True,"['chicken', 'cheese']",[]
-31,"
+",True,"['chicken', 'cheese']","[0, 0]",[]
+29,"
 	Fruit Dip Recipes - Allrecipes.com
-",True,"['chicken', 'cheese']",[]
-32,"
+",True,"['chicken', 'cheese']","[0, 0]",[]
+30,"
 
 
 
@@ -108,61 +102,60 @@ Espresso and Mascarpone Icebox Cake Recipe
 
 
 Fast White-Bean Stew Recipe
- at Epicurious.com",False,[],[]
-33,"
+ at Epicurious.com",False,[],"[0, 0]",[]
+31,"
 	Seven Minute Frosting I Recipe - Allrecipes.com
-",True,['egg'],[]
-34,Moroccan Spiced Chickpea Soup Recipe : Dave Lieberman : Recipes : Food Network,True,['chicken'],[]
-35,Butternut Squash Recipes - MyRecipes.com,True,['chicken'],[]
-36,"
+",True,['egg'],[0],[]
+32,Moroccan Spiced Chickpea Soup Recipe : Dave Lieberman : Recipes : Food Network,True,['chicken'],[0],[]
+33,Butternut Squash Recipes - MyRecipes.com,True,['chicken'],[0],[]
+34,"
 	Wild Rice Pilaf Recipe - Allrecipes.com
-",False,[],[]
-37,"
+",False,[],[0],[]
+35,"
 	Southern Fried Corn Recipe - Allrecipes.com
-",False,[],[]
-38,Pumpkin Pound Cake Recipe : George Stella : Recipes : Food Network,True,['egg'],[]
-39,Lentil Salad with Feta Cheese Recipe | MyRecipes.com,True,['cheese'],"['Main Dishes', 'Salads', 'Make-Ahead', 'Portable/Picnic', 'Quick/Easy', 'American', 'Greek', 'Jewish', 'Mediterranean', 'Middle Eastern', 'Beans', 'Meatless', 'Cooking Light']"
-40,"
+",False,[],[0],[]
+36,Pumpkin Pound Cake Recipe : George Stella : Recipes : Food Network,True,['egg'],[0],[]
+37,"
 	Margaritas on the Rocks Recipe - Allrecipes.com
-",False,[],[]
-41,"
+",False,[],[0],[]
+38,"
 	Easy Meatballs  Recipe from Betty Crocker
-",True,"['beef', 'egg']",[]
-42,Turkey Piccata Recipe | MyRecipes.com,True,['turkey'],"['Main Dishes', 'Italian', 'Fruits', 'Poultry', 'Spring', 'Summer', 'Southern Living']"
-43,Cooking from the Pantry : Recipes and Cooking : Food Network,True,['turkey'],[]
-44,"
+",True,"['beef', 'egg']","[0, 0]",[]
+39,Turkey Piccata Recipe | MyRecipes.com,True,['turkey'],[0],"['Main Dishes', 'Italian', 'Fruits', 'Poultry', 'Spring', 'Summer', 'Southern Living']"
+40,Cooking from the Pantry : Recipes and Cooking : Food Network,True,['turkey'],[0],[]
+41,"
 	Apple Squares Recipe - Allrecipes.com
-",True,['egg'],[]
-45,Baked Ziti Recipe : Rachael Ray : Recipes : Food Network,True,"['turkey', 'cheese']",[]
-46,"
+",True,['egg'],[0],[]
+42,Baked Ziti Recipe : Rachael Ray : Recipes : Food Network,True,"['turkey', 'cheese']","[0.9070294784580498, 0.08504847763225037]",[]
+43,"
 	Best Ever Popcorn Balls Recipe - Allrecipes.com
-",False,[],[]
-47,Oxtail Stew Recipe : Emeril Lagasse : Recipes : Food Network,True,['beef'],[]
-48,"
+",False,[],"[0.9070294784580498, 0.08504847763225037]",[]
+44,Oxtail Stew Recipe : Emeril Lagasse : Recipes : Food Network,True,['beef'],[0],[]
+45,"
 	Coconut Marshmallow Cream Meringue Pie Recipe - Allrecipes.com
-",True,"['egg', 'egg']",[]
-49,"
+",True,"['egg', 'egg']","[0, 0]",[]
+46,"
 	Fresh Tasting Black Beans With Rice Recipe - Allrecipes.com
-",False,[],[]
-50,"
+",False,[],"[0, 0]",[]
+47,"
 	Spicy Bok Choy in Garlic Sauce Recipe - Allrecipes.com
-",False,[],[]
-51,"
+",False,[],"[0, 0]",[]
+48,"
 	Perfect Baked Potato Recipe - Allrecipes.com
-",True,['cheese'],[]
-52,"
+",True,['cheese'],[0],[]
+49,"
 	Pork Baby Back Rib Recipes - Allrecipes.com
-",True,['cheese'],[]
-53,"
+",True,['cheese'],[0],[]
+50,"
 	Chicken Recipes - Allrecipes.com
-",True,['cheese'],[]
-54,"
+",True,['cheese'],[0],[]
+51,"
 	Bruschetta Chicken Bake Recipe - Allrecipes.com
-",True,"['chicken', 'chicken', 'cheese']",[]
-55,"
+",True,"['chicken', 'chicken', 'cheese']","[0.6802721088435374, 0, 0.05669898508816692]",[]
+52,"
 	Moravian Spice Cookies Recipe - Allrecipes.com
-",False,[],[]
-56,"
+",False,[],"[0.6802721088435374, 0, 0.05669898508816692]",[]
+53,"
 
 
 
@@ -173,77 +166,67 @@ Fast White-Bean Stew Recipe
 
 
 Homemade Chai Recipe
- at Epicurious.com",False,[],[]
-57,"
+ at Epicurious.com",False,[],"[0.6802721088435374, 0, 0.05669898508816692]",[]
+54,"
 	Seared Tuna with Wasabi-Butter Sauce Recipe - Allrecipes.com
-",True,['tuna'],[]
-58,"
+",True,['tuna'],[0],[]
+55,"
 	Scottish Shortbread IV Recipe - Allrecipes.com
-",False,[],[]
-59,"
+",False,[],[0],[]
+56,"
 	Grilled Burger Recipes - Allrecipes.com
-",False,[],[]
-60,"
+",False,[],[0],[]
+57,"
 	Peach Tea Recipe - Allrecipes.com
-",False,[],[]
-61,Easy Corned Beef and Cabbage Recipe : Paula Deen : Recipes : Food Network,True,['beef'],[]
-62,"
+",False,[],[0],[]
+58,Easy Corned Beef and Cabbage Recipe : Paula Deen : Recipes : Food Network,True,['beef'],[0],[]
+59,"
 	Veggie Lover's Baked Ziti Recipe - Allrecipes.com
-",True,['cheese'],[]
-63,Green Beans with Shallots Recipe : Food Network Kitchens : Recipes : Food Network,False,[],[]
-64,"
+",True,['cheese'],[0.05669898508816692],[]
+60,Green Beans with Shallots Recipe : Food Network Kitchens : Recipes : Food Network,False,[],[0.05669898508816692],[]
+61,"
 	Chicken Avocado Pizza Recipe - Allrecipes.com
-",True,"['chicken', 'cheese']",[]
-65,"
+",True,"['chicken', 'cheese']","[0, 0]",[]
+62,"
 	Israeli Moroccan Couscous Recipe - Allrecipes.com
-",False,[],[]
-66,"
+",False,[],"[0, 0]",[]
+63,"
 	Pesto Recipe - Allrecipes.com
-",True,['cheese'],[]
-67,"
+",True,['cheese'],[0],[]
+64,"
 	Japanese Ginger Salad Dressing Recipe - Allrecipes.com
-",False,[],[]
+",False,[],[0],[]
+65,Tony's Chocolate Pecan Pie Recipe : Patrick and Gina Neely : Recipes : Food Network,True,['egg'],[0],[]
+66,Smothered Mushrooms and Kale Recipe : Rachael Ray : Recipes : Food Network,False,[],[0],[]
+67,Shrimp and Grits Recipe : Patrick and Gina Neely : Recipes : Food Network,True,['chicken'],[0],[]
 68,"
-	Easy Cheesecake  Recipe from Betty Crocker
-",True,"['egg', 'cheese']",[]
-69,Tony's Chocolate Pecan Pie Recipe : Patrick and Gina Neely : Recipes : Food Network,True,['egg'],[]
-70,Smothered Mushrooms and Kale Recipe : Rachael Ray : Recipes : Food Network,False,[],[]
-71,Shrimp and Grits Recipe : Patrick and Gina Neely : Recipes : Food Network,True,['chicken'],[]
-72,"
 	Simple Cajun Seasoning Recipe - Allrecipes.com
-",False,[],[]
-73,"
+",False,[],[0],[]
+69,"
 	Artichoke Recipes - Allrecipes.com
-",False,[],[]
-74,"
+",False,[],[0],[]
+70,"
 	Fried Chicken Tenders Recipe - Allrecipes.com
-",True,"['egg', 'chicken']",[]
-75,"
-	Spinach Rice Recipe - Allrecipes.com
-",True,"['chicken', 'cheese']",[]
-76,"
-	Orange Cream Cheese Frosting Recipe - Allrecipes.com
-",True,['cheese'],[]
-77,Cranberry-Almond Coleslaw Recipe | MyRecipes.com,False,[],"['Salads', 'Side Dishes/Vegetables', 'Entertaining', 'Make-Ahead', 'Portable/Picnic', 'American', 'Fruits', 'Nuts', 'Southern Living']"
-78,"
+",True,"['egg', 'chicken']","[0, 0]",[]
+71,Cranberry-Almond Coleslaw Recipe | MyRecipes.com,False,[],"[0, 0]","['Salads', 'Side Dishes/Vegetables', 'Entertaining', 'Make-Ahead', 'Portable/Picnic', 'American', 'Fruits', 'Nuts', 'Southern Living']"
+72,"
 	Baked Acorn Squash Recipe - Allrecipes.com
-",False,[],[]
-79,Cheesy Ham and Banana Casserole Recipe : Paula Deen : Recipes : Food Network,True,['egg'],[]
-80,"
+",False,[],"[0, 0]",[]
+73,Cheesy Ham and Banana Casserole Recipe : Paula Deen : Recipes : Food Network,True,['egg'],[0],[]
+74,"
 	Spinach Cheese Squares Recipe - Allrecipes.com
-",True,"['egg', 'cheese']",[]
-81,"
+",True,"['egg', 'cheese']","[0, 0]",[]
+75,"
 	Bread Machine Bagels Recipe - Allrecipes.com
-",True,['egg'],[]
-82,Creamed Spinach Recipe | MyRecipes.com,True,['cheese'],"['Side Dishes/Vegetables', 'Entertaining', 'American', 'Vegetables', 'Autumn', 'Spring', 'Summer', 'Winter', 'Cooking Light']"
-83,"
+",True,['egg'],[0],[]
+76,"
 	Chinese Broccoli Slaw Recipe - Allrecipes.com
-",False,[],[]
-84,Strawberry Shortcake Trifle Recipe | MyRecipes.com,True,['egg'],"['Desserts', 'Puddings/Custards', 'Entertaining', 'Make-Ahead', 'American', 'Dairy', 'Fruits', 'Summer', 'All You']"
-85,"
+",False,[],[0],[]
+77,Strawberry Shortcake Trifle Recipe | MyRecipes.com,True,['egg'],[0],"['Desserts', 'Puddings/Custards', 'Entertaining', 'Make-Ahead', 'American', 'Dairy', 'Fruits', 'Summer', 'All You']"
+78,"
 	Zucchini and Blue Cheese Side Recipe - Allrecipes.com
-",True,['cheese'],[]
-86,"
+",True,['cheese'],[0],[]
+79,"
 
 
 
@@ -254,209 +237,204 @@ Homemade Chai Recipe
 
 
 Grilled Rib-Eye Steaks with Parsley-Garlic Butter Recipe
- at Epicurious.com",False,[],[]
-87,"
+ at Epicurious.com",False,[],[0],[]
+80,"
 	Gourmet Sweet Potato Classic Recipe - Allrecipes.com
-",True,['egg'],[]
-88,"
+",True,['egg'],[0],[]
+81,"
 	Thumbprint Cookies  Recipe from Betty Crocker
-",True,['egg'],[]
-89,Peach Crisp Recipe : Anne Burrell : Recipes : Food Network,False,[],[]
-90,Pumpkin Bread Recipe : Alton Brown : Recipes : Food Network,True,['egg'],[]
-91,Pumpkin Oatmeal Recipe : Aarti Sequeira : Recipes : Food Network,False,[],[]
-92,For a Crowd : recipes and cooking : Food Network : Recipes and Cooking : Food Network,False,[],[]
-93,"
+",True,['egg'],[0],[]
+82,Peach Crisp Recipe : Anne Burrell : Recipes : Food Network,False,[],[0],[]
+83,Pumpkin Bread Recipe : Alton Brown : Recipes : Food Network,True,['egg'],[0],[]
+84,Pumpkin Oatmeal Recipe : Aarti Sequeira : Recipes : Food Network,False,[],[0],[]
+85,For a Crowd : recipes and cooking : Food Network : Recipes and Cooking : Food Network,False,[],[0],[]
+86,"
 	Apple Pie Bars Recipe - Allrecipes.com
-",True,"['egg', 'egg']",[]
-94,"
+",True,"['egg', 'egg']","[0, 0]",[]
+87,"
 	Authentic Korean Bulgogi Recipe - Allrecipes.com
-",True,['beef'],[]
-95,Red Beans and Rice Recipe : Alton Brown : Recipes : Food Network,True,"['pork', 'pork']",[]
-96,"
+",True,['beef'],[0.6802721088435374],[]
+88,"
 	Fresh Pineapple Upside Down Cake Recipe - Allrecipes.com
-",True,['egg'],[]
-97,"
+",True,['egg'],[0],[]
+89,"
 	Fry Bread I Recipe - Allrecipes.com
-",False,[],[]
-98,"Hash Brown Casserole with Bacon, Onions, and Cheese Recipe | MyRecipes.com",True,['cheese'],"['Breakfast/Brunch', 'Casseroles', 'Main Dishes', 'Entertaining', 'Make-Ahead', 'American', 'Vegetables', 'Bake', 'Autumn', 'Winter', 'Cooking Light']"
-99,"
+",False,[],[0],[]
+90,"
 	Best Chili Recipes - Allrecipes.com
-",True,['cheese'],[]
-100,"
+",True,['cheese'],[0],[]
+91,"
 	Green Bean Casserole  Recipe from Betty Crocker
-",False,[],[]
-101,"
-	Tomato Mozzarella Salad Recipe - Allrecipes.com
-",True,['cheese'],[]
-102,"
+",False,[],[0],[]
+92,"
 	Stuffed Portobello Mushrooms Recipe - Allrecipes.com
-",True,"['pork', 'cheese', 'cheese']",[]
-103,"
+",True,"['pork', 'cheese', 'cheese']","[0, 0, 0]",[]
+93,"
 	S'mores Recipe - Allrecipes.com
-",False,[],[]
-104,"
+",False,[],"[0, 0, 0]",[]
+94,"
 	Zucchini, Chicken and Rice Casserole Recipe - Allrecipes.com
-",True,['chicken'],[]
-105,"
+",True,['chicken'],[0.368543403073085],[]
+95,"
 	Hot German Potato Salad III Recipe - Allrecipes.com
-",False,[],[]
-106,Individual Beef Wellingtons Recipe : Emeril Lagasse : Recipes : Food Network,True,"['pork', 'egg']",[]
-107,Grilled Lamb Chops Recipe : Giada De Laurentiis : Recipes : Food Network,True,['lamb'],[]
-108,Paula's Southern Thanksgiving : Special : Food Network,True,['lamb'],[]
-109,Chef Stuart's Maryland Crab Soup Recipe :   : Recipes : Food Network,True,['chicken'],[]
-110,Lasagna Rolls Recipe : Giada De Laurentiis : Recipes : Food Network,True,"['cheese', 'egg']",[]
-111,"
+",False,[],[0.368543403073085],[]
+96,Individual Beef Wellingtons Recipe : Emeril Lagasse : Recipes : Food Network,True,"['pork', 'egg']","[0, 0]",[]
+97,Grilled Lamb Chops Recipe : Giada De Laurentiis : Recipes : Food Network,True,['lamb'],[0],[]
+98,Paula's Southern Thanksgiving : Special : Food Network,True,['lamb'],[0],[]
+99,Chef Stuart's Maryland Crab Soup Recipe :   : Recipes : Food Network,True,['chicken'],[0],[]
+100,Lasagna Rolls Recipe : Giada De Laurentiis : Recipes : Food Network,True,"['cheese', 'egg']","[0, 0]",[]
+101,"
 	Poppy Seed Dressing I Recipe Reviews - Allrecipes.com (Pg. 1)
-",True,"['cheese', 'egg']",[]
-112,"
+",True,"['cheese', 'egg']","[0, 0]",[]
+102,"
 	Everyday Leftovers - Pasta Recipes - Allrecipes.com
-",True,"['cheese', 'egg']",[]
-113,"
+",True,"['cheese', 'egg']","[0, 0]",[]
+103,"
 	Chicken Breast Cutlets with Artichokes and Capers Recipe - Allrecipes.com
-",True,"['chicken', 'chicken']",[]
-114,"
+",True,"['chicken', 'chicken']","[0.9070294784580498, 0]",[]
+104,"
 	Asian Pasta Salad Recipe - Allrecipes.com
-",False,[],[]
-115,"
+",False,[],"[0.9070294784580498, 0]",[]
+105,"
 	Sunrise Salad Recipe - Allrecipes.com
-",False,[],[]
-116,"
+",False,[],"[0.9070294784580498, 0]",[]
+106,"
 	Grilled Asparagus Recipe - Allrecipes.com
-",False,[],[]
-117,"
+",False,[],"[0.9070294784580498, 0]",[]
+107,"
 	Christmas Side Dish Recipes - Allrecipes.com
-",False,[],[]
-118,Peas and Carrots Spring Salad Recipe : Rachael Ray : Recipes : Food Network,False,[],[]
-119,"
+",False,[],"[0.9070294784580498, 0]",[]
+108,Peas and Carrots Spring Salad Recipe : Rachael Ray : Recipes : Food Network,False,[],"[0.9070294784580498, 0]",[]
+109,"
 	Cinnamon Chip Apple Cookies Recipe - Allrecipes.com
-",True,['egg'],[]
-120,"
+",True,['egg'],[0],[]
+110,"
 	Hummus Recipes - Allrecipes.com
-",True,['egg'],[]
-121,"
+",True,['egg'],[0],[]
+111,"
 	Detox Salad Recipe - Allrecipes.com
-",True,"['cheese', 'cheese']",[]
-122,"
+",True,"['cheese', 'cheese']","[0, 0]",[]
+112,"
 	Slow Cooker Buffalo Chicken Sandwiches Recipe - Allrecipes.com
-",True,['chicken'],[]
-123,Porchetta with Roasted Fingerlings Recipe : Anne Burrell : Recipes : Food Network,True,"['pork', 'chicken']",[]
-124,"
+",True,['chicken'],[0],[]
+113,Porchetta with Roasted Fingerlings Recipe : Anne Burrell : Recipes : Food Network,True,"['pork', 'chicken']","[0, 0]",[]
+114,"
 	Cajun Appetizer Meatballs Recipe - Allrecipes.com
-",True,"['beef', 'egg']",[]
-125,Pumpkin Muffins Recipe | MyRecipes.com,True,"['egg', 'egg']","['Breads', 'Breakfast/Brunch', 'Make-Ahead', 'American', 'Vegetables', 'Low Cholesterol', 'Low Saturated Fat', 'Bake', 'Autumn', 'Winter', 'Cooking Light']"
-126,Pantry Essentials Checklist | MyRecipes.com,True,"['egg', 'egg']",[]
-127,Uncooked Cranberry and Orange Relish Recipe : Michele Urvater : Recipes : Food Network,False,[],[]
-128,"
+",True,"['beef', 'egg']","[0, 0]",[]
+115,Pumpkin Muffins Recipe | MyRecipes.com,True,"['egg', 'egg']","[0, 0]","['Breads', 'Breakfast/Brunch', 'Make-Ahead', 'American', 'Vegetables', 'Low Cholesterol', 'Low Saturated Fat', 'Bake', 'Autumn', 'Winter', 'Cooking Light']"
+116,Pantry Essentials Checklist | MyRecipes.com,True,"['egg', 'egg']","[0, 0]",[]
+117,Uncooked Cranberry and Orange Relish Recipe : Michele Urvater : Recipes : Food Network,False,[],"[0, 0]",[]
+118,"
 	Easy Baked Tilapia Recipe - Allrecipes.com
-",False,[],[]
-129,Frozen Peaches Recipe : Alton Brown : Recipes : Food Network,False,[],[]
-130,"
+",False,[],"[0, 0]",[]
+119,Frozen Peaches Recipe : Alton Brown : Recipes : Food Network,False,[],"[0, 0]",[]
+120,"
 	Herbs and Spice Recipes - Allrecipes.com
-",False,[],[]
-131,"
+",False,[],"[0, 0]",[]
+121,"
 	No Tomato Chili Recipe - Allrecipes.com
-",True,"['beef', 'beef', 'cheese']",[]
-132,"
+",True,"['beef', 'beef', 'cheese']","[1.1337868480725624, 0, 0]",[]
+122,"
 	Pumpkin Oatmeal Recipe - Allrecipes.com
-",False,[],[]
-133,"
+",False,[],"[1.1337868480725624, 0, 0]",[]
+123,"
 	Jerky Lover's Jerky - Sweet, Hot and Spicy! Recipe - Allrecipes.com
-",True,['beef'],[]
-134,"
+",True,['beef'],[0],[]
+124,"
 	Gluten-Free Cheese and Herb Pizza Crust Recipe - Allrecipes.com
-",True,"['cheese', 'egg']",[]
-135,"
+",True,"['cheese', 'egg']","[0, 0]",[]
+125,"
 	Blackened Tilapia with Secret Hobo Spices Recipe - Allrecipes.com
-",False,[],[]
-136,Raspberry Sauce Recipe : Ina Garten : Recipes : Food Network,False,[],[]
-137,"
+",False,[],"[0, 0]",[]
+126,Raspberry Sauce Recipe : Ina Garten : Recipes : Food Network,False,[],"[0, 0]",[]
+127,"
 	Flourless Chocolate Cake I Recipe - Allrecipes.com
-",True,['egg'],[]
-138,Tomato Mac and Cheese Recipe : Paula Deen : Recipes : Food Network,False,[],[]
-139,"
+",True,['egg'],[0],[]
+128,Tomato Mac and Cheese Recipe : Paula Deen : Recipes : Food Network,False,[],[0],[]
+129,"
 	Perfect Fudge Article - Allrecipes.com
-",False,[],[]
-140,Monday Morning Potato Rolls and Bread Recipe | MyRecipes.com,True,['egg'],"['Breads', 'Entertaining', 'Freezable', 'Kid-Friendly', 'Make-Ahead', 'American', 'Rice/Grains', 'Low Fat', 'Microwave', 'Bake', 'Cooking Light']"
-141,"
+",False,[],[0],[]
+130,Monday Morning Potato Rolls and Bread Recipe | MyRecipes.com,True,['egg'],[0],"['Breads', 'Entertaining', 'Freezable', 'Kid-Friendly', 'Make-Ahead', 'American', 'Rice/Grains', 'Low Fat', 'Microwave', 'Bake', 'Cooking Light']"
+131,"
 	Eggplant Sandwiches Recipe - Allrecipes.com
-",True,"['egg', 'cheese']",[]
-142,"
+",True,"['egg', 'cheese']","[0, 0]",[]
+132,"
 	Best Vegetarian Soups, Stews & Chili Recipes - Allrecipes.com
-",True,"['egg', 'cheese']",[]
-143,"
+",True,"['egg', 'cheese']","[0, 0]",[]
+133,"
 	Baked Halibut Steaks Recipe - Allrecipes.com
-",True,['cheese'],[]
-144,Lavender Syrup Recipe | MyRecipes.com,False,[],"['Sauces/Condiments', 'Entertaining', 'Kid-Friendly', 'Make-Ahead', 'American', 'Spring', 'Summer', 'Easter', ""Mother's Day"", ""Valentine's Day"", 'Southern Living']"
-145,"
+",True,['cheese'],[0],[]
+134,Lavender Syrup Recipe | MyRecipes.com,False,[],[0],"['Sauces/Condiments', 'Entertaining', 'Kid-Friendly', 'Make-Ahead', 'American', 'Spring', 'Summer', 'Easter', ""Mother's Day"", ""Valentine's Day"", 'Southern Living']"
+135,"
 	Coconut Custard Pie II Recipe - Allrecipes.com
-",True,['egg'],[]
-146,"
+",True,['egg'],[0],[]
+136,"
 	Rice and Lentil Soup in a Jar Recipe - Allrecipes.com
-",True,"['chicken', 'chicken']",[]
-147,"
+",True,"['chicken', 'chicken']","[0, 0]",[]
+137,"
 	Brownies with Peanut Butter Fudge Frosting Recipe - Allrecipes.com
-",False,[],[]
-148,Oven-Fried Parmesan Chicken Strips Recipe | MyRecipes.com,True,"['cheese', 'chicken']","['Main Dishes', 'Snacks', 'Freezable', 'Kid-Friendly', 'Make-Ahead', 'Quick/Easy', '5 Ingredients or Less', 'Poultry', 'Low Calorie', 'Low Carbohydrate', 'Southern Living']"
-149,Grill It! with Bobby Flay : Bobby Flay : Food Network,True,"['cheese', 'chicken']",[]
-150,"
+",False,[],"[0, 0]",[]
+138,Oven-Fried Parmesan Chicken Strips Recipe | MyRecipes.com,True,"['cheese', 'chicken']","[0, 0.9070294784580498]","['Main Dishes', 'Snacks', 'Freezable', 'Kid-Friendly', 'Make-Ahead', 'Quick/Easy', '5 Ingredients or Less', 'Poultry', 'Low Calorie', 'Low Carbohydrate', 'Southern Living']"
+139,Grill It! with Bobby Flay : Bobby Flay : Food Network,True,"['cheese', 'chicken']","[0, 0.9070294784580498]",[]
+140,"
 	Tomato Vodka Sauce Recipe - Allrecipes.com
-",True,['cheese'],[]
-151,"
+",True,['cheese'],[0],[]
+141,"
 	Banana Muffins I Recipe - Allrecipes.com
-",True,['egg'],[]
-152,Lemony Chicken Saltimbocca Recipe | MyRecipes.com,True,"['chicken', 'chicken']","['Main Dishes', 'Kid-Friendly', 'Quick/Easy', 'Italian', 'Poultry', 'Low Carbohydrate', 'Cooking Light']"
-153,Cake de Ron (Rum Cake) Recipe | MyRecipes.com,True,"['egg', 'egg']","['Cakes/Frostings', 'Desserts', 'Coastal Living']"
-154,"
+",True,['egg'],[0],[]
+142,Lemony Chicken Saltimbocca Recipe | MyRecipes.com,True,"['chicken', 'chicken']","[0, 0]","['Main Dishes', 'Kid-Friendly', 'Quick/Easy', 'Italian', 'Poultry', 'Low Carbohydrate', 'Cooking Light']"
+143,Cake de Ron (Rum Cake) Recipe | MyRecipes.com,True,"['egg', 'egg']","[0, 0]","['Cakes/Frostings', 'Desserts', 'Coastal Living']"
+144,"
 	Creamy Zucchini Recipe - Allrecipes.com
-",False,[],[]
-155,"
+",False,[],"[0, 0]",[]
+145,"
 	Sad Cake Recipe - Allrecipes.com
-",True,['egg'],[]
-156,Kielbasa and Meatballs with Basil Tomatoes Recipe : Robert Irvine : Recipes : Food Network,True,"['egg', 'beef']",[]
-157,Fresh Mozzarella and Basil Pizza Recipe | MyRecipes.com,False,[],"['Main Dishes', 'Entertaining', 'Kid-Friendly', 'Quick/Easy', 'Family', 'American', 'Italian', 'Pork', 'Bake', 'Southern Living']"
-158,Bruschetta with Fresh Monterey Sardines Recipe : Review :   : Recipes : Food Network,False,[],[]
-159,"
+",True,['egg'],[0],[]
+146,Kielbasa and Meatballs with Basil Tomatoes Recipe : Robert Irvine : Recipes : Food Network,True,"['egg', 'beef']","[0, 0]",[]
+147,Fresh Mozzarella and Basil Pizza Recipe | MyRecipes.com,False,[],"[0, 0]","['Main Dishes', 'Entertaining', 'Kid-Friendly', 'Quick/Easy', 'Family', 'American', 'Italian', 'Pork', 'Bake', 'Southern Living']"
+148,Bruschetta with Fresh Monterey Sardines Recipe : Review :   : Recipes : Food Network,False,[],"[0, 0]",[]
+149,"
 	Hot Bean Dip Recipe - Allrecipes.com
-",True,"['cheese', 'cheese', 'cheese']",[]
-160,"
+",True,"['cheese', 'cheese', 'cheese']","[0, 0, 0]",[]
+150,"
 	Monkfish Provincial Recipe - Allrecipes.com
-",False,[],[]
-161,"
+",False,[],"[0, 0, 0]",[]
+151,"
 	Peach Crisp  Recipe from Betty Crocker
-",False,[],[]
-162,Crispy and Delicious Asparagus and Potato Tart Recipe : Jamie Oliver : Recipes : Food Network,True,"['cheese', 'egg']",[]
-163,"
+",False,[],"[0, 0, 0]",[]
+152,Crispy and Delicious Asparagus and Potato Tart Recipe : Jamie Oliver : Recipes : Food Network,True,"['cheese', 'egg']","[0, 0]",[]
+153,"
 	Authentic Italian Lasagna Recipes - Allrecipes.com (Pg. 1)
-",True,"['cheese', 'egg']",[]
-164,"
+",True,"['cheese', 'egg']","[0, 0]",[]
+154,"
 	Broccoli Casserole Recipe - Allrecipes.com
-",True,['cheese'],[]
-165,Chocolate-Covered Cherry Cake Recipe :   : Recipes : Food Network,True,['egg'],[]
-166,"
+",True,['cheese'],[0],[]
+155,Chocolate-Covered Cherry Cake Recipe :   : Recipes : Food Network,True,['egg'],[0],[]
+156,"
 	Walnut Pie Crust Recipe - Allrecipes.com
-",False,[],[]
-167,"
+",False,[],[0],[]
+157,"
 	Sweet Russian Cabbage Soup Recipe - Allrecipes.com
-",True,"['beef', 'beef']",[]
-168,"
+",True,"['beef', 'beef']","[0.6802721088435374, 0]",[]
+158,"
 	Apple Oatmeal Crisp Recipe - Allrecipes.com
-",False,[],[]
-169,Chocolate Chunk Cookies Recipe : Ina Garten : Recipes : Food Network,True,['egg'],[]
-170,Herb and Spice Guide : Recipes and Cooking : Food Network,True,['egg'],[]
-171,Orange Curd Recipe : Ina Garten : Recipes : Food Network,True,['egg'],[]
-172,"Zucchini, Cherry Tomato, and Fresh Ricotta Pasta Recipe | MyRecipes.com",False,[],"['Main Dishes', 'Kid-Friendly', 'Quick/Easy', 'Italian', 'Pasta', 'Cooking Light']"
-173,Sugar Shack : Paula's Home Cooking : Food Network,False,[],[]
-174,Spicy Couscous Recipe :   : Recipes : Food Network,True,['chicken'],[]
-175,Homemade Pappardelle Recipe : Michael Chiarello : Recipes : Food Network,True,['egg'],[]
-176,"
+",False,[],"[0.6802721088435374, 0]",[]
+159,Chocolate Chunk Cookies Recipe : Ina Garten : Recipes : Food Network,True,['egg'],[0],[]
+160,Herb and Spice Guide : Recipes and Cooking : Food Network,True,['egg'],[0],[]
+161,Orange Curd Recipe : Ina Garten : Recipes : Food Network,True,['egg'],[0],[]
+162,"Zucchini, Cherry Tomato, and Fresh Ricotta Pasta Recipe | MyRecipes.com",False,[],[0],"['Main Dishes', 'Kid-Friendly', 'Quick/Easy', 'Italian', 'Pasta', 'Cooking Light']"
+163,Sugar Shack : Paula's Home Cooking : Food Network,False,[],[0],[]
+164,Spicy Couscous Recipe :   : Recipes : Food Network,True,['chicken'],[0],[]
+165,Homemade Pappardelle Recipe : Michael Chiarello : Recipes : Food Network,True,['egg'],[0],[]
+166,"
 	Garlic Mashed Potatoes Recipe - Allrecipes.com
-",True,['chicken'],[]
-177,"
+",True,['chicken'],[0],[]
+167,"
 	Oatmeal Pancakes  Recipe from Betty Crocker
-",True,['egg'],[]
-178,"
+",True,['egg'],[0],[]
+168,"
 	Sweet and Spicy Green Beans Recipe - Allrecipes.com
-",False,[],[]
-179,"
+",False,[],[0],[]
+169,"
 	Watergate Cake III Recipe - Allrecipes.com
-",True,['egg'],[]
+",True,['egg'],[0],[]
