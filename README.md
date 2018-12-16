@@ -1,80 +1,79 @@
 # Meet the meat
 
 # Abstract
-With increasingly dire climate change forecasts, concerned individuals are asking how they can minimize their carbon footprint. Recent research suggests that reducing one's consumption of meat, in particular beef, is one of the highest impact actions an individual can take. To examine this topic, we will explore the popularity and prevalence of meat in recipes. Specifically, we plan to extract the ingredients, quantities, and ratings from a recipe database and calculate the carbon footprint of recipes. After ranking the data based on this carbon fooprint, we hope to directly relate this data to the issue of climate change by exploring the environmental impact of consumers' diets based on their ingredients.
+With increasingly dire climate change forecasts, concerned individuals are asking how they can minimize their carbon footprint. Recent research suggests that reducing one's consumption of meat, in particular beef, is one of the highest impact actions an individual can take. To examine this topic, we will explore the popularity and prevalence of meat in recipes. 
+
+For this project, we extracted data from nearly 30'000 recipes in order to understand whether the presence of meat influenced the popularity of a recipe and whether it is possible to suggest similar recipes with a lower carbon footprint. 
 
 # Research questions
 
-1. Is there any correlation between the recipe tags and its carbon footprint?
+1. Is there any correlation between the recipe ratings and its carbon footprint? Are recipes with lower carbon footprints rated higher or lower?
 
-2. Does the recipe rating depend on the presence of meat and the carbon footprint? Are recipes with lower carbon footprints rated higher or lower?
+2. What are the average/median quantities of meat in recipes and how do they influence the overall carbon footprint of the recipe?
 
-3. What trends emerge by clustering similarly named recipes or recipes with shared tags?
+2. What trends emerge by clustering similarly named recipes or recipes with shared tags?
 
-4. Is there any relationship between the carbon footprint or the presence of meat and the publish date?
+3. Can we find similar recipes that have lower carbon footprints?
 
-5. Can we find similar recipes that have lower carbon footprints?
-
-6. What general statements can we conclude from our findings?
+4. What general statements can we conclude from our findings?
 
 
 # Dataset
 
-We plan to primarily use the "Cooking Recipes" dataset which is 2.5GB and in the form of HTML files. As described in the associated paper's [source](http://infolab.stanford.edu/~west1/from-cookies-to-cooks/), the dataset contains data from 14 distinct high-traffic recipe sites. Each site typically has a different format which we will do our best to document in order to extract the necessary information. Some html files lead to recipes that are grouped together strangely and which we ignored.
+We used the "Cooking Recipes" dataset which is 2.5GB and in the form of HTML files. As described in the associated paper's [source](http://infolab.stanford.edu/~west1/from-cookies-to-cooks/), the dataset contains data from 14 distinct high-traffic recipe sites. Each site typically has a different format which we did our best to document in order to extract the necessary information. Some html files lead to recipes that are grouped together strangely and which we ignored. In our final dataset, we have kept recipes from four websites which all had common data we used for our analysis such as ratings and serving size.
 
-To enrich our study, we included a dataset from [GreenEatz.com](https://www.greeneatz.com/foods-carbon-footprint.html) which estimates the greenhouse gas emissions that result from the growth, processing and transportation of food. The dataframe we used is a selection from the top 8 worst foods to consume. In this first step, we also considered as "meat" other animal protein sources such as cheese and eggs which also have a high environmental impact.
+To enrich our study, we included a dataset from the [Environmental Working Group’s Meat Eater’s Guide](http://static.ewg.org/reports/2011/meateaters/pdf/methodology_ewg_meat_eaters_guide_to_health_and_climate_2011.pdf) which estimates the CO2 equivalent footprint that results from the growth, processing and transportation of food. The dataframe we used is a selection from the top 8 worst foods to consume in terms of carbon equivalent impact. We also considered as "meat" other animal protein sources such as cheese and eggs which also have a high environmental impact.
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones up until project milestone 3
 Steps accomplished:
 
 1. **Data exploration:**
 
-    a.) Loaded recipe data on a sample of about 400 recipes
+    a.) Loaded recipe data on the full dataset (around 30'000) points
     
-    b.) Extracted and cleaned data about ingredients and quantities.
+    b.) Extracted and cleaned data about ratings and serving size
    
-    c.) Categorised meat ingredients in relevant sub-categories, according to strongest impact. 
-
-2. **Environmental impact:**
-
-    a.) Found a relevant dataset listing environmental impact of meat ingredients and protein sources
+    c.) Extracted tags from some websites then dropped this field of research as it was not compatible with many webiste formats
     
-    b.) Defined a formula to rate the environmental impact of the meat ingredients in a recipe
+    d.) Saved the dataset as CSV to upload it in data analysis notebook
+
+2. **Data Analysis:**
+
+    a.) Performed statistical analysis of our dataset
+    
+    b.) Analysed the relationships between ratings and meat ingredients
+    
+    b.) Analysed the prevalence of different types of meat in recipes by extracting median amounts of meat ingredients
+    
+    c.) Clustered the recipes by title and analysed the relationships with ratings
   
-3. **Nov. 25th - Milestone 2:**
+3. **Dec. 16th - Milestone 3:**
 
-    a.) Redefined which research questions we want to study in depth for the final project submission.
+    a.) Redefined our research questions in accordance with the extracted data
     
-    b.) Documented our findings for final MS2 submission 
+    b.) Documented our findings for final MS3 submission 
     
-    c.) Planned next steps for Milestone 3 and final presentation
+    c.) Planned next steps for final presentation
 
 
-# Milestone 2 Update: 
+# Milestone 3 Update: 
 
-After thoroughly exploring our data we discovered that we do not have the access logs referenced in the original paper so we had to redefine our project scope and goals to focus more fully on the recipe database. Instead of analyzing the consumer trends over time and geographic location, we will examine the meat prevalence in recipes as it relates to rating, publishing date and other recommended recipes. We limited our search to htmls of recipes, filtering out the web pages that have multiple recipes (i.e. "BBQ Recipes for 4th of July", "Salad ideas"). Our method for extracting the quantity of meat is not fool-proof: the numbers that appear in the ingredient list (i.e. '1 kg beef') are extracted along with the unit. Any fractions are converted to decimal and the total extracted numbers are summed. This may give us a few false values in cases where the quantities are represented strangely: '1 packet (15 ounce) of chicken broth' will extract a total quantity of 16 ounces (converted to kg) of chicken, which is not accurate. While, we're hoping that these instances are relatively few, we will need to verify that our data is not being corrupted by our extraction method.
+For Milestone 3, we refined our data extraction and performed the extraction on the full dataset. From the original 90'000 files we managed to extract 30'000 recipes with data satisfying our analysis goals. We saved our new dataset to a CSV file in order to upload it into a new data analysis notebook (our submission for MS3).
+
+Through basic statistical analysis, we realised some datapoints had exagerated carbon footprints as a result from our data extraction methods. We discovered that the carbon footprint of a recipe had little influence on the overall ratings, however, the lowest impact recipes have the bet rating, meaning we wouldn't feel bad suggesting a recipe having a lower footprint to a user willing to lower their cooking impact. Through clustering, we discovered main groups of recipes, whether types of dishes with a small amount of clusters or more in detail types of dishes with a large amount of clusters.
 
 
-# Next Steps: Refining data extraction and analysis
+# Next Steps: Preparing poster presentation
 
-Before going in depth with the data analysis, we still have to refine our data extraction and cleaning.
+For the poster presentation, we would like to find new ways to visualise our data in a meaningful way as well as extract more information about the carbon footprint per meat ingredient. 
 
-1.) Extract ratings, date and tags from all sources
+1.) Extract carbon footprint per ingredient per recipe 
 
-2.) Extract carbon impact of all recipes containing meat ingredients
+4.) Formalize "story" relevant to a poster presentation
 
-Using the cleaned dataframe we created for milestone 2, we will then begin the analysis of the research questions above.
+5.) Prepare presentation and final poster
 
-1.) Explore basic relationships between ratings, ingredients and carbon footprint
-
-2.) Examine the ratio of recipes with meat to those without. Does this depend on the tags?
-
-3.) Attempt clustering by tags and examine trends
-
-4.) Formalize "story" based on observations
-
-5.) Prepare presentation and final story
-
-# Questions for the TAs
-1) Is there a better way to extract quantities from datasets?
-2) Is there a better way to generalize the format of websites or is it necessary to determine the schema for every website?
+# Contributions of group members
+Alex: Clustering and extract ratings
+Nadine: Statistical analysis
+Chloe: Extract tags and meat ingredient analysis
