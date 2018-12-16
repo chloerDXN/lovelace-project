@@ -74,6 +74,9 @@ For the poster presentation, we would like to find new ways to visualise our dat
 5.) Prepare presentation and final poster
 
 # Contributions of group members
+
 Alex: Clustering and extract ratings
+
 Nadine: Statistical analysis
+
 Chloe: Extract tags and meat ingredient analysis
